@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+    <fields name="metadata">
+        <fieldset name="jmetadata" label="JGLOBAL_FIELDSET_METADATA_OPTIONS">
+            <field
+                    label="JEXTRATAGS_TITLE"
+                    description="JEXTRATAGS_TITLE_DESC"
+                    name="title"
+                    type="text"
+                    filter="string"
+            />
+        </fieldset>
+    </fields>
+</form>
