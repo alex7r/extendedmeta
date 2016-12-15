@@ -11,6 +11,7 @@
 	<description>PLG_EXTENDEDMETA_XML_DESCRIPTION</description>
 	<files>
 		<filename plugin="extendedmeta">extendedmeta.php</filename>
+		<folder>forms</folder>
 	</files>
 	<languages>
 		<language tag="en-GB">en-GB.plg_system_extendedmeta.ini</language>
